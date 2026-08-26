@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tmg2004star.github.io/TheVoiceTz/sitemap.xml
